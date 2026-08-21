@@ -82,7 +82,3 @@ graph TD
     P -- Yes --> R[Publish Queue data to Broker]
     end
 ```
-
-## Lisensi
-
-Silakan gunakan dan kembangkan kode ini sesuai kebutuhan proyek pemantauan IoT Anda.
